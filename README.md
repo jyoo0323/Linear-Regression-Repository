@@ -2,7 +2,8 @@
 
 
 RESULTs:
-Below are all possible mses driven using cv = 13, with combinations of learning rates(0.1, 0.01, 0.001, 0.0001), and L1/L2 and lambda(0, 0.0001, 0.001, 0.01, 0.1, 1.0)
+
+cv값을 13으로 설정하고,learning rates(0.1, 0.01, 0.001, 0.0001), L1/L2 그리고 lambda(0, 0.0001, 0.001, 0.01, 0.1, 1.0) 의 모든 조합에서 하이퍼파라미터 튜닝을 진행하였고 아래가 그 결과입니다.
 
 
 Ave. mse - lerning rate:0.1, regularizer: l1, lambd: 1.0 -> 0.4146626068392543
